@@ -1,6 +1,6 @@
-# Analisi preliminare dei dati
+# **Analisi preliminare dei dati**
 
-Analisi campi della tabella &quot;2018\_Alunni\_In\_Azienda\_2020\_01\_20.csv&quot;
+### Analisi campi della tabella &quot;2018\_Alunni\_In\_Azienda\_2020\_01\_20.csv&quot;
 
 Org ragione sociale --> ragione sociale della azienda
 
@@ -20,7 +20,7 @@ Progetto descrizione --> descrizione del tipo di impiego
 
 _Annotazioni_: i campi utili sono &quot;Progetto titolo&quot; e &quot;Progetto descrizione&quot; associabile al campo &quot;indirizzo&quot;  dell&#39;altra tabella per una classificazione in base all&#39;indirizzo di studi.
 
-Analisi campi della tabella &quot;export\_aziende\_2020\_01\_20.csv&quot;
+### Analisi campi della tabella &quot;export\_aziende\_2020\_01\_20.csv&quot;
 
 ID --> id dell&#39;azienda
 
