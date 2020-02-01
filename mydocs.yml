@@ -1,0 +1,8 @@
+site_name: Project_Anagrafica-Aziende
+
+nav:
+    - 'Presentazione Progetto': 'Presentazione-Progetto.md'
+    - 'Piano di lavoro gestione anagrafica': 'app_anagrafica_aziende.md'
+    
+theme:
+    name: readthedocs
